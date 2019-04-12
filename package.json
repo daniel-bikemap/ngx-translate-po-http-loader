@@ -35,13 +35,14 @@
     "@ngx-translate/core": "^11.0.1"
   },
   "dependencies": {
-    "gettext-parser": "^3.1.1"
+    "gettext-parser": "^4.0.0"
   },
   "devDependencies": {
     "@angular/common": "^7.2.12",
     "@angular/core": "^7.2.12",
     "@angular/platform-browser": "^7.2.12",
     "@ngx-translate/core": "11.0.1",
+    "json-loader": "^0.5.7",
     "rxjs": "^6.3.0",
     "tslint": "~5.9.1",
     "tslint-eslint-rules": "^4.1.1",
